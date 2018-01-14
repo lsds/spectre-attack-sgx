@@ -55,3 +55,6 @@ be used to infer the accesses to `array2` if it is not accessible to the attacke
     $ ./sgxspectre
 4. Remember to "make clean" before switching build mode
 
+## Credits
+SGXSpectre is brought to you by Dan O'Keeffe, Divya Muthukumaran, Pierre-Louis
+Aublin, Florian Kelbert, Christian Priebe and Peter Pietzuch.
